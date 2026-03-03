@@ -1,4 +1,6 @@
 // classe alem de guardar informações, também tem comportamentos, ou seja, funções
+// Um modelo ou plano para criar objetos que compartilham características e comportamentos semelhantes
+// principal objetivo, organizar e estruturar o código, permitindo a criação de instâncias com características específicas
 
 class formaDebolo{
     constructor(saborDaMassa, saborRecheio){
